@@ -4,10 +4,14 @@
 
 python 과외를 진행하면서 찾아보았던 자료들, 만들었던 slide들과 예제코드들을 정리해서 올려놓습니다.
 
-## Index
+## Contents
 
-### 1차시
+### [1차시](https://docs.google.com/presentation/d/1Qsd68FPtWAYPN9jQnQmSQffuDem6AK43-E7E5URCQCI/edit?usp=sharing)
 
+__example code__
+```
+./src/class1
+```
 - 파이썬의 기본 철학: 파이썬은 무엇을 할 수 있나?
 - 파이썬의 기본 문법: 어떻게 쓰는 것인가?  
   - 자료형 / 조건문 / 반복문 / 함수
